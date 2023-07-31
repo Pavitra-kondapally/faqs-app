@@ -1,0 +1,29 @@
+/* Write your code here. */
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.question-style {
+  color: #52606d;
+  font-weight: bold;
+}
+.plus-minus-button {
+  color: #cb8805;
+  height: 30px;
+  width: 30px;
+  border-color: #cb8805;
+  background-color: transparent;
+  border-radius: 15px;
+  font-size: 20px;
+}
+.each-faq-container {
+  border-color: #d7dae6;
+  border-style: groove;
+}
+.separator {
+  color: #e4e7eb;
+}
+.answer-style {
+  color: #9aa5b1;
+}

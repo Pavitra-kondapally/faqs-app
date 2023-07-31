@@ -1,0 +1,22 @@
+/* Write your code here. */
+.container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  font-family: 'Roboto';
+  padding: 50px;
+}
+.faqs-card {
+  height: 800px;
+  width: 600;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+.heading-style {
+  color: #cb8805;
+  text-align: center;
+}
+.faqs-list-container {
+  list-style: none;
+}
